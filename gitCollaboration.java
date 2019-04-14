@@ -13,6 +13,7 @@ public class gitCollaboration {
 		new gitCollaboration("Xiaoya", "xiaoyah@seas.upenn.edu");
 		// my collaborator info
 		// please feel free to add anything you'd like to share!
+		System.out.println("Hello Xiaoya!");
 
 	}
 }
